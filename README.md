@@ -8,9 +8,6 @@
   <a href="https://twitter.com/YOUR-TWITTER">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
   </a>
-  <a href="https://www.instagram.com/maximilian_alexander93/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
 </p>
 <!-- Gandalf GIF -->
 <p align="center">
@@ -21,9 +18,12 @@
 <h1 align="center">Hi 👋, I'm Feanor</h1>
 <h3 align="center">I like IoT Development, CyberSec and J.R.R.Tolkien</h3>
 
-- 🔭 I’m currently working on **Spacegrow (Aeroponics Automation IoT)**
+- 🔭 I’m currently working on:
+     **Apathis (AI supported Geopolitical and Economic Information API)**
+     **Prometheus (AI supported Automated Quantitative Trading Module on top of Apathis API)**
+     **Spacegrow (Automated Aeroponics System)**
 
-- 🌱 I’m currently learning **@42_vienna coding school**
+- 🌱 I’m currently studying **Cybersecurity and Penetration Testing**
 
 - 📫 How to reach me **maximilian.huethmayr@gmail.com**
 
