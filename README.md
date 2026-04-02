@@ -1,39 +1,80 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:22c55e,50:16a34a,100:15803d&height=200&text=mae%20govannen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=22c55e&strokeWidth=2)
+<div align="center">
 
-<!-- Social Media Icons -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-  </a>
-</p>
-<!-- Gandalf GIF -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndldHZvaHBtNGdtY3V4OHkzZGtldnZtaHRva3QyOHhmYnV2ejNkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRwvEhDH8IIq4/giphy.gif" alt="Gandalf the White" width="400"/>
-</p>
+# Maximilian · Feanor
 
+**Building at the intersection of systems, security, and intelligence.**
 
-<h1 align="center">Hi 👋, I'm Feanor</h1>
-<h3 align="center">I like IoT Development, CyberSec and J.R.R.Tolkien</h3>
+[![Email](https://img.shields.io/badge/maximilian.huethmayr@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:maximilian.huethmayr@gmail.com)
+[![Instagram](https://img.shields.io/badge/@maximilian__alexander93-0a0a0a?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maximilian_alexander93)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
-- 🔭 I’m currently working on:
-<p align="center">**Apathis (AI supported Geopolitical and Economic Information API)**
-     **Prometheus (AI supported Automated Quantitative Trading Module on top of Apathis API)**
-     **Spacegrow (Automated Aeroponics System)**
-</p>
-- 🌱 I’m currently studying **Cybersecurity and Penetration Testing**
+</div>
 
-- 📫 How to reach me **maximilian.huethmayr@gmail.com**
+---
 
-- ⚡ Fun fact **Beat me in A Tolkien quiz for a coffee!**
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/maximilian_alexander93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maximilian_alexander93" height="30" width="40" /></a>
-</p>
+I'm a developer with a focus on **IoT systems**, **cybersecurity**, and **AI-driven infrastructure**. I like building things that are useful, automated, and a little ambitious — from geopolitical intelligence APIs to aeroponic grow systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Currently studying **Cybersecurity & Penetration Testing**.
 
+---
+
+## Active Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **Apathis** | AI-supported Geopolitical & Economic Information API | 🔨 In Development |
+| **Prometheus** | Automated quantitative trading module built on Apathis | 🔨 In Development |
+| **Spacegrow** | Automated aeroponics system (hardware + software) | 🔨 In Development |
+
+---
+
+## Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-0a0a0a?style=flat-square&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=white)
+
+**Hardware & Embedded**
+
+![Arduino](https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=22c55e)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Think you can beat me in a Tolkien quiz? Win and I'll buy the coffee. ☕</sub>
+</div>
