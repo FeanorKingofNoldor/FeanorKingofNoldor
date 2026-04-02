@@ -19,10 +19,10 @@
 <h3 align="center">I like IoT Development, CyberSec and J.R.R.Tolkien</h3>
 
 - 🔭 I’m currently working on:
-     **Apathis (AI supported Geopolitical and Economic Information API)**
+<p align="center">**Apathis (AI supported Geopolitical and Economic Information API)**
      **Prometheus (AI supported Automated Quantitative Trading Module on top of Apathis API)**
      **Spacegrow (Automated Aeroponics System)**
-
+</p>
 - 🌱 I’m currently studying **Cybersecurity and Penetration Testing**
 
 - 📫 How to reach me **maximilian.huethmayr@gmail.com**
